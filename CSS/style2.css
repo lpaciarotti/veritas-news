@@ -14,6 +14,16 @@
 }
 
 .container p{
-    font-size:15px;
+    font-size:17px;
     line-height: 1.33333;
 }
+
+.img-description {
+    background-color: black;
+    font-size: 14px;
+    color: #ececec;
+    padding:16px 0px 16px 16px;
+    width: 751px;
+    position:relative;
+    bottom:4px;
+    }
