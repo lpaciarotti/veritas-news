@@ -1,11 +1,12 @@
 
 .container {
     font-family:Arial,Helvetica,freesans,sans-serif;
-    width: 640px;
+    width: 600px;
+    padding-left: 180px;
 }
 
 .container h1{
-    font-size:35px;
+    font-size:32px;
     line-height: 1.2;
 }
 
@@ -14,20 +15,20 @@
 }
 
 .container img{
-    width:768px;
+    width:648px;
 }
 
 .container p{
-    font-size:17px;
+    font-size:16px;
     line-height: 1.33333;
 }
 
 .img-description {
     background-color: black;
-    font-size: 14px;
+    font-size: 13px;
     color: #ececec;
     padding:16px 0px 16px 16px;
-    width: 751px;
+    width: 631px;
     position:relative;
     bottom:4px;
     }
