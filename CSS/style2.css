@@ -38,3 +38,12 @@
     font-size:17px;
     line-height: 1.33333;
 }
+
+a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(17, 103, 168, 0.3);
+}
