@@ -1,17 +1,22 @@
 
 .container {
     font-family:Arial,Helvetica,freesans,sans-serif;
+    color: #404040;
     width: 600px;
     padding-left: 180px;
 }
 
+
 .container h1{
     font-size:32px;
+    color:#1e1e1e;
     line-height: 1.2;
+    padding-top: 5px;
 }
 
 .container h2{
     font-weight: lighter;
+    color:#1e1e1e;
 }
 
 .container img{
@@ -21,6 +26,21 @@
 .container p{
     font-size:16px;
     line-height: 1.33333;
+}
+
+.pubdate p{
+    font-size: 13px;
+    color:#5a5a5a;
+    line-height: 1.23077;
+}
+
+.seccion a{
+    font-size: 20px;
+    font-weight: lighter;
+    color: #222222;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color:#bb1919;
 }
 
 .img-description {
