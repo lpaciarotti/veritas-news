@@ -1,0 +1,19 @@
+
+.container {
+    font-family:Arial,Helvetica,freesans,sans-serif;
+    width: 640px;
+}
+
+.container h1{
+    font-size:35px;
+    line-height: 1.2;
+}
+
+.container img{
+    width:768px;
+}
+
+.container p{
+    font-size:15px;
+    line-height: 1.33333;
+}
