@@ -108,6 +108,7 @@ a {
 
 ul.list{
     list-style-type: square;
+    margin-bottom: 35px;
 }
 
 li {
