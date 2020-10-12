@@ -26,3 +26,35 @@ p {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.pub-info img{
+    float:left;
+    margin-right: 10px;
+}
+
+.pub-info p{
+    display:inline-block;
+    font-family: franklin,helvetica,arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    font-size: 0.875rem;
+    line-height: 1.125rem 
+}
+
+.pub-info a{
+    color:#333;
+    text-decoration-color: #ccc;
+}
+
+ul {
+    font-family: franklin,helvetica,arial,sans-serif;
+    font-size: 13px;
+    list-style: none;
+    padding-left: 0;
+    padding-top:20px;
+}
+
+li {
+    padding-right: 0.8rem;
+    display:inline;
+}
