@@ -129,3 +129,9 @@ li {
     width:100%;
     padding-bottom: 20px;
 }
+
+.other-news {
+    margin-top:20px;
+    font-size: 18px;
+    font-weight: bold;
+}

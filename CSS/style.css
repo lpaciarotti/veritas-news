@@ -67,7 +67,9 @@ li {
 
 
 .img-description {
+    font-family:franklin,helvetica,arial,sans-serif;
     font-size: 12px;
+    font-weight:lighter;
     line-height: 1.3em;
     color: #aaa;
     background-color:rgba(240, 240, 240, 0.6);
@@ -126,4 +128,10 @@ td.trd-clm {
     height:56px;
     position: relative;
     text-align: center;
+}
+
+.other-news {
+    margin-top:20px;
+    font-size: 18px;
+    font-weight: bold;
 }
