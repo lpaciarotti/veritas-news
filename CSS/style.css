@@ -1,0 +1,28 @@
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 600px;
+    margin-left: calc((100% - 600px) / 2);
+    margin-right: auto;
+}
+
+h1 {
+    width: 740px;
+    font-weight: 700px;
+    font-style: italic;
+    font-size: 1.9375rem;
+    line-height:2.25rem;
+}
+
+
+p {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+}
+
+.intro {
+    width: 740px;
+    font-size: 1.4375rem;
+    line-height: 1.875rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
