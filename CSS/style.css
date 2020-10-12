@@ -5,6 +5,7 @@
     margin-right: auto;
 }
 
+
 h1 {
     width: 740px;
     font-weight: 700px;
@@ -57,4 +58,13 @@ ul {
 li {
     padding-right: 0.8rem;
     display:inline;
+}
+
+.img-description {
+    font-size: 12px;
+    line-height: 1.3em;
+    color: #aaa;
+    background-color:rgba(240, 240, 240, 0.6);
+    width:596px;
+    padding-left:6px;
 }
