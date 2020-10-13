@@ -44,16 +44,17 @@
     padding-bottom: 20px;
 }
 
-.pubdate p{
+#pubdate p{
     font-size: 14px;
     color:#5a5a5a;
     line-height: 1.23077;
     margin-bottom: 25px;
+    display:inline-block;
+    vertical-align: middle;
 }
 
-#img-icon img{
+#pubdate img{
     width: 20px;
-    float:left;
 }
 
 .button {
