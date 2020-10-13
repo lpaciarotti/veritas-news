@@ -33,12 +33,12 @@ a:visited {
 }
 
 .pub-info img{
-    float:left;
     margin-right: 10px;
 }
 
 .pub-info p{
     display:inline-block;
+    vertical-align: top;
     font-family: franklin,helvetica,arial,sans-serif;
     font-weight: 700;
     letter-spacing: 0.02em;
