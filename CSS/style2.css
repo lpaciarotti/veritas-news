@@ -75,11 +75,11 @@
 
 .button:hover {
     background-color: #10619f;
-    color: #fff;
+    color: #ffffff;
 }
 
 .button a:hover {
-    color: #fff;
+    color: #ffffff;
 }
 .seccion a{
     font-size: 20px;
@@ -91,7 +91,7 @@
 }
 
 .img-description {
-    background-color: black;
+    background-color: #3f3f42;
     font-size: 13px;
     color: #ececec;
     padding:16px 0px 16px 16px;
@@ -107,7 +107,7 @@
 }
 
 a {
-    color: black;
+    color:#3f3f42;
     font-weight: bold;
     text-decoration: none;
     border-bottom-style: solid;
